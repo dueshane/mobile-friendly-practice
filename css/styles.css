@@ -1,0 +1,26 @@
+/*header begins*/
+header{
+    font-size: 50px;
+    text-align: center;
+    color: crimson;
+    position: absolute;
+    right: 35%;
+    top: 35%;
+    transform: translate(-35%, -35%);
+}
+
+/*body starts*/
+
+/* heading begin*/
+h1{
+    text-align: right;
+}
+
+/* footer start*/
+footer{
+    height: 50px;
+    text-align: center;
+    background-color: crimson;
+    font-size: 25px;
+    padding-top: 20px;
+}
